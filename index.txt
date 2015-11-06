@@ -1,1 +1,1 @@
-1¡¢master is release.........1.0.0
+1¡¢master is release.........1.0.0  //bug is fixed
