@@ -1,2 +1,2 @@
 hello world git !
-branch dev!
+branch a new feature1 dev!
